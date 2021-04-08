@@ -11,7 +11,7 @@ json-server --watch db.json --port 8000
 
 http://localhost:8000/restaurants
 
-http://localhost:8000/burgers
-
+git config --global user.email "ttllcba@gmail.com"
+  git config --global user.name "Alexx73"
 
 
