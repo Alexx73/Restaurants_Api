@@ -1,5 +1,6 @@
-# food-api
-Restaurants Api
+# Restaurants Api
+
+
 
 install json-server:
 >npm install -g json-serve
