@@ -7,7 +7,7 @@ https://restaurants-api-01.herokuapp.com/restaurants
 install json-server:
 >npm install -g json-serve
 
-run json server:
+run json server  :
 
 json-server --watch db.json --port 8000
 
@@ -23,7 +23,6 @@ git config --global user.email "email"
   heroku create restaurants-api-01
 
   to deploy:
-  git push heroku main
 
 
 
